@@ -111,7 +111,7 @@ Data is no longer there, so it's not persisted
 We could use Docker to host the database engine and the app
 ```
 
-* Try to list the tasks to be carried out to obtain two thirds, one hosting the application part locally and the second third using Docker for the database engine.
+* Try to list the tasks to be carried out to obtain two tiers, one hosting the application part locally and the second tier using Docker for the database engine.
 
 ```
 1. Run the app locally

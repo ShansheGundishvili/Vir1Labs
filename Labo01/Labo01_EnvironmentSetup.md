@@ -20,7 +20,7 @@ If you have opted for a graphical installation, provide screenshots and describe
 //TODO all commands used and the results obtained
 ```
 
-### Containers Engins - Docker
+### Containers Engine - Docker
 
 ```
 //TODO all commands used and the results obtained
